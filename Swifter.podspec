@@ -15,6 +15,8 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/gdanikas/Swifter.git", :tag => "#{s.version}" }
   s.source_files  = "Sources/*.swift"
   s.swift_version = "5.0"
+    s.xcconfig = { 'ARCHS' => '$(ARCHS_STANDARD)' }
+
 
     s.subspec 'MonitorPlus' do |monitorplus|
     monitorplus.source_files = 'Sources/MonitorPlus/*.{h,m,swift}'
