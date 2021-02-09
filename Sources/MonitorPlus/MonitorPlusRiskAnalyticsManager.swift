@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import UIKit
 import FPL
 
 public final class MonitorPlusRiskAnalyticsManager: NSObject, RiskAnalyticsManager {
