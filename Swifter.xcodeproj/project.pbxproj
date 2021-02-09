@@ -99,6 +99,22 @@
 		DC7D6B761ECA5294008586E3 /* SwifterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7D6B731ECA5294008586E3 /* SwifterTests.swift */; };
 		DC7D6B781ECA8F3C008586E3 /* Scanner++.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7D6B771ECA8F3C008586E3 /* Scanner++.swift */; };
 		DC7D6B791ECA8F3C008586E3 /* Scanner++.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC7D6B771ECA8F3C008586E3 /* Scanner++.swift */; };
+		E41E582F25D2F08400F89B8B /* MonitorPlusRiskAnalyticsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E582625D2F08400F89B8B /* MonitorPlusRiskAnalyticsManager.swift */; };
+		E41E583025D2F08400F89B8B /* MonitorPlusRiskAnalyticsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E582625D2F08400F89B8B /* MonitorPlusRiskAnalyticsManager.swift */; };
+		E41E583125D2F08400F89B8B /* MonitorPlusRiskAnalyticsFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E582725D2F08400F89B8B /* MonitorPlusRiskAnalyticsFilter.swift */; };
+		E41E583225D2F08400F89B8B /* MonitorPlusRiskAnalyticsFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E582725D2F08400F89B8B /* MonitorPlusRiskAnalyticsFilter.swift */; };
+		E41E583325D2F08400F89B8B /* MonitorPlusRiskAnalyticsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E582825D2F08400F89B8B /* MonitorPlusRiskAnalyticsData.swift */; };
+		E41E583425D2F08400F89B8B /* MonitorPlusRiskAnalyticsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E582825D2F08400F89B8B /* MonitorPlusRiskAnalyticsData.swift */; };
+		E41E584025D2F0A400F89B8B /* RiskAnalyticsFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E583C25D2F0A400F89B8B /* RiskAnalyticsFilter.swift */; };
+		E41E584125D2F0A400F89B8B /* RiskAnalyticsFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E583C25D2F0A400F89B8B /* RiskAnalyticsFilter.swift */; };
+		E41E584225D2F0A400F89B8B /* RiskAnalyticsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E583D25D2F0A400F89B8B /* RiskAnalyticsManager.swift */; };
+		E41E584325D2F0A400F89B8B /* RiskAnalyticsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E583D25D2F0A400F89B8B /* RiskAnalyticsManager.swift */; };
+		E41E584425D2F0A400F89B8B /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E583E25D2F0A400F89B8B /* Error.swift */; };
+		E41E584525D2F0A400F89B8B /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E583E25D2F0A400F89B8B /* Error.swift */; };
+		E41E584625D2F0A400F89B8B /* URLRequestFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E583F25D2F0A400F89B8B /* URLRequestFilter.swift */; };
+		E41E584725D2F0A400F89B8B /* URLRequestFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41E583F25D2F0A400F89B8B /* URLRequestFilter.swift */; };
+		E41E584C25D2F0B900F89B8B /* FPL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E41E584B25D2F0B900F89B8B /* FPL.framework */; };
+		E41E584D25D2F0B900F89B8B /* FPL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E41E584B25D2F0B900F89B8B /* FPL.framework */; };
 		F6B4D57A1C7BAC4500E06514 /* SwifteriOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B9F50EE1944A5AB00894629 /* SwifteriOS.framework */; };
 /* End PBXBuildFile section */
 
@@ -211,6 +227,14 @@
 		DC7D6B721ECA5294008586E3 /* String+SwifterTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+SwifterTests.swift"; sourceTree = "<group>"; };
 		DC7D6B731ECA5294008586E3 /* SwifterTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwifterTests.swift; sourceTree = "<group>"; };
 		DC7D6B771ECA8F3C008586E3 /* Scanner++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Scanner++.swift"; sourceTree = "<group>"; };
+		E41E582625D2F08400F89B8B /* MonitorPlusRiskAnalyticsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MonitorPlusRiskAnalyticsManager.swift; sourceTree = "<group>"; };
+		E41E582725D2F08400F89B8B /* MonitorPlusRiskAnalyticsFilter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MonitorPlusRiskAnalyticsFilter.swift; sourceTree = "<group>"; };
+		E41E582825D2F08400F89B8B /* MonitorPlusRiskAnalyticsData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MonitorPlusRiskAnalyticsData.swift; sourceTree = "<group>"; };
+		E41E583C25D2F0A400F89B8B /* RiskAnalyticsFilter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RiskAnalyticsFilter.swift; path = ../../../DEVelopment/PROjects/RISK_ANALYTICS/RiskAnalytics/RiskAnalyticsFilter.swift; sourceTree = "<group>"; };
+		E41E583D25D2F0A400F89B8B /* RiskAnalyticsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RiskAnalyticsManager.swift; path = ../../../DEVelopment/PROjects/RISK_ANALYTICS/RiskAnalytics/RiskAnalyticsManager.swift; sourceTree = "<group>"; };
+		E41E583E25D2F0A400F89B8B /* Error.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Error.swift; path = ../../../DEVelopment/PROjects/RISK_ANALYTICS/RiskAnalytics/Error.swift; sourceTree = "<group>"; };
+		E41E583F25D2F0A400F89B8B /* URLRequestFilter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = URLRequestFilter.swift; path = ../../../DEVelopment/PROjects/RISK_ANALYTICS/RiskAnalytics/URLRequestFilter.swift; sourceTree = "<group>"; };
+		E41E584B25D2F0B900F89B8B /* FPL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FPL.framework; sourceTree = "<group>"; };
 		F6B4D5751C7BAC4500E06514 /* SwifterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwifterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -235,6 +259,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E41E584C25D2F0B900F89B8B /* FPL.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,6 +267,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E41E584D25D2F0B900F89B8B /* FPL.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -333,6 +359,9 @@
 		8B9F51461944A8DC00894629 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				E41E582925D2F08400F89B8B /* Libraries */,
+				E41E582525D2F08400F89B8B /* MonitorPlus */,
+				E41E582325D2F08400F89B8B /* MonitorPlus */,
 				8B5EFF14195F09F600B354F9 /* Swifter.h */,
 				8B9F514C1944A8DC00894629 /* Swifter.swift */,
 				8BF1D6871948C11E00E3AA64 /* SwifterCredential.swift */,
@@ -401,6 +430,44 @@
 			);
 			name = SwifterTests;
 			path = Tests/SwifterTests;
+			sourceTree = "<group>";
+		};
+		E41E582325D2F08400F89B8B /* MonitorPlus */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = MonitorPlus;
+			path = Libraries/MonitorPlus;
+			sourceTree = "<group>";
+		};
+		E41E582525D2F08400F89B8B /* MonitorPlus */ = {
+			isa = PBXGroup;
+			children = (
+				E41E583E25D2F0A400F89B8B /* Error.swift */,
+				E41E583C25D2F0A400F89B8B /* RiskAnalyticsFilter.swift */,
+				E41E583D25D2F0A400F89B8B /* RiskAnalyticsManager.swift */,
+				E41E583F25D2F0A400F89B8B /* URLRequestFilter.swift */,
+				E41E582625D2F08400F89B8B /* MonitorPlusRiskAnalyticsManager.swift */,
+				E41E582725D2F08400F89B8B /* MonitorPlusRiskAnalyticsFilter.swift */,
+				E41E582825D2F08400F89B8B /* MonitorPlusRiskAnalyticsData.swift */,
+			);
+			path = MonitorPlus;
+			sourceTree = "<group>";
+		};
+		E41E582925D2F08400F89B8B /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				E41E582A25D2F08400F89B8B /* MonitorPlus */,
+			);
+			path = Libraries;
+			sourceTree = "<group>";
+		};
+		E41E582A25D2F08400F89B8B /* MonitorPlus */ = {
+			isa = PBXGroup;
+			children = (
+				E41E584B25D2F0B900F89B8B /* FPL.framework */,
+			);
+			path = MonitorPlus;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -641,14 +708,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				A17A694F1C78336200063DFD /* Operator++.swift in Sources */,
+				E41E584225D2F0A400F89B8B /* RiskAnalyticsManager.swift in Sources */,
 				8BCF43291947CC7A00E63301 /* SwifterFavorites.swift in Sources */,
 				8BCF43261947CABA00E63301 /* SwifterSuggested.swift in Sources */,
 				A1BDB38C1D4C864200B0080F /* SwifterTag.swift in Sources */,
 				8B116AF1194601970019A4DC /* SwifterHTTPRequest.swift in Sources */,
 				8B548F5619450BDB00EE2927 /* SwifterOAuthClient.swift in Sources */,
+				E41E583125D2F08400F89B8B /* MonitorPlusRiskAnalyticsFilter.swift in Sources */,
 				A1E207B21D4B86170093E498 /* Int++.swift in Sources */,
+				E41E583325D2F08400F89B8B /* MonitorPlusRiskAnalyticsData.swift in Sources */,
 				8B9F51571944A8DC00894629 /* Swifter.swift in Sources */,
 				A1E207B41D4B86170093E498 /* Data++.swift in Sources */,
+				E41E584025D2F0A400F89B8B /* RiskAnalyticsFilter.swift in Sources */,
+				E41E584625D2F0A400F89B8B /* URLRequestFilter.swift in Sources */,
 				DC7D6B781ECA8F3C008586E3 /* Scanner++.swift in Sources */,
 				8BF1D6761948825D00E3AA64 /* SwifterSavedSearches.swift in Sources */,
 				A1E207A91D4B85D90093E498 /* HMAC.swift in Sources */,
@@ -659,6 +731,7 @@
 				8BCF431D1947907300E63301 /* SwifterMessages.swift in Sources */,
 				8B9F51531944A8DC00894629 /* String++.swift in Sources */,
 				8BF1D67C1948882700E3AA64 /* SwifterSpam.swift in Sources */,
+				E41E582F25D2F08400F89B8B /* MonitorPlusRiskAnalyticsManager.swift in Sources */,
 				8BCF431A19475D3C00E63301 /* SwifterSearch.swift in Sources */,
 				8B33CA3F19587C6D00739FCB /* JSON.swift in Sources */,
 				8BCF432C1947CED700E63301 /* SwifterLists.swift in Sources */,
@@ -675,6 +748,7 @@
 				8BCF4320194798FB00E63301 /* SwifterFollowers.swift in Sources */,
 				8B548F5C1945331D00EE2927 /* SwifterTimelines.swift in Sources */,
 				8BF1D67F194889B900E3AA64 /* SwifterClientProtocol.swift in Sources */,
+				E41E584425D2F0A400F89B8B /* Error.swift in Sources */,
 				8B1F259F194A663D004BD304 /* SwifterHelp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -684,14 +758,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				A17A69501C78336300063DFD /* Operator++.swift in Sources */,
+				E41E584325D2F0A400F89B8B /* RiskAnalyticsManager.swift in Sources */,
 				8BCF432A1947CC7A00E63301 /* SwifterFavorites.swift in Sources */,
 				8BCF43271947CABA00E63301 /* SwifterSuggested.swift in Sources */,
 				A1BDB38D1D4C864200B0080F /* SwifterTag.swift in Sources */,
 				8B116AF2194601970019A4DC /* SwifterHTTPRequest.swift in Sources */,
 				8B548F5719450BDB00EE2927 /* SwifterOAuthClient.swift in Sources */,
+				E41E583225D2F08400F89B8B /* MonitorPlusRiskAnalyticsFilter.swift in Sources */,
 				A1E207B31D4B86170093E498 /* Int++.swift in Sources */,
+				E41E583425D2F08400F89B8B /* MonitorPlusRiskAnalyticsData.swift in Sources */,
 				8B9F51581944A8DC00894629 /* Swifter.swift in Sources */,
 				A1E207B51D4B86170093E498 /* Data++.swift in Sources */,
+				E41E584125D2F0A400F89B8B /* RiskAnalyticsFilter.swift in Sources */,
+				E41E584725D2F0A400F89B8B /* URLRequestFilter.swift in Sources */,
 				DC7D6B791ECA8F3C008586E3 /* Scanner++.swift in Sources */,
 				8BF1D6771948825D00E3AA64 /* SwifterSavedSearches.swift in Sources */,
 				A1E207AA1D4B85D90093E498 /* HMAC.swift in Sources */,
@@ -702,6 +781,7 @@
 				8BCF431E1947907300E63301 /* SwifterMessages.swift in Sources */,
 				8B9F51541944A8DC00894629 /* String++.swift in Sources */,
 				8BF1D67D1948882700E3AA64 /* SwifterSpam.swift in Sources */,
+				E41E583025D2F08400F89B8B /* MonitorPlusRiskAnalyticsManager.swift in Sources */,
 				8BCF431B19475D3C00E63301 /* SwifterSearch.swift in Sources */,
 				8B33CA4019587C6D00739FCB /* JSON.swift in Sources */,
 				8BCF432D1947CED700E63301 /* SwifterLists.swift in Sources */,
@@ -718,6 +798,7 @@
 				8BCF4321194798FB00E63301 /* SwifterFollowers.swift in Sources */,
 				8B548F5D1945331D00EE2927 /* SwifterTimelines.swift in Sources */,
 				8BF1D680194889B900E3AA64 /* SwifterClientProtocol.swift in Sources */,
+				E41E584525D2F0A400F89B8B /* Error.swift in Sources */,
 				8B1F25A0194A663D004BD304 /* SwifterHelp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -962,6 +1043,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Sources/Libraries/MonitorPlus",
+				);
 				INFOPLIST_FILE = "$(SRCROOT)/Sources/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -980,6 +1065,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Sources/Libraries/MonitorPlus",
+				);
 				INFOPLIST_FILE = "$(SRCROOT)/Sources/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -1002,6 +1091,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Sources/Libraries/MonitorPlus",
+				);
 				FRAMEWORK_VERSION = A;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -1033,6 +1126,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Sources/Libraries/MonitorPlus",
+				);
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = "$(SRCROOT)/Sources/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
