@@ -1,0 +1,11 @@
+framework module FPL {
+  umbrella header "FPL.h"
+
+  export *
+  module * { export * }
+}
+
+module FPL.Swift {
+    header "FPL-Swift.h"
+    requires objc
+}
